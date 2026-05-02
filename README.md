@@ -13,13 +13,13 @@ The dataset is provided as an Excel file (.xlsx) with the following columns:
 
 **Column**	**Description**
 
-ID      running text ID
+ID:     running text ID
 
-author	Identifier of the annotator or source group (fully anonymized)
+author:	Identifier of the annotator or source group (fully anonymized)
 
-label	  Emotion category (Plutchik-based)
+label:	  Emotion category (Plutchik-based)
 
-text	  Original Hebrew sentence
+text:	  Original Hebrew sentence
 
-translation	English translation of the sentence (when available)
+translation:	English translation of the sentence (when available)
 
