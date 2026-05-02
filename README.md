@@ -11,9 +11,15 @@ Each entry includes a Hebrew sentence labeled with an emotion, along with its En
 
 The dataset is provided as an Excel file (.xlsx) with the following columns:
 
-Column	Description
+**Column**	**Description**
+
 ID      running text ID
+
 author	Identifier of the annotator or source group (fully anonymized)
+
 label	  Emotion category (Plutchik-based)
+
 text	  Original Hebrew sentence
+
 translation	English translation of the sentence (when available)
+
