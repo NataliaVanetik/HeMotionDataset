@@ -23,3 +23,6 @@ text:	  Original Hebrew sentence
 
 translation:	English translation of the sentence (when available)
 
+** Prompting **
+We also supply here (as screenshots) the zero shot prompt we used for evaluation and sentences used to turn it into a few-shot prompt.
+
