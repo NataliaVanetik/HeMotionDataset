@@ -1,8 +1,14 @@
 # The paper
 Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation
 
-# If you use this dataset, please cite:
+# Citation
 
+If you use this work, please cite:
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
 @misc{vanetik2026hemotion,
   author = {Natalia Vanetik and Shilat Haya Yosefi and Keturah Shlomo},
   title = {Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation},
@@ -10,7 +16,6 @@ Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluatio
   note = {Accepted to DATA 2026 Conference},
   url = {https://github.com/<username>/<repository>}
 }
-
 # HeMotionDataset
 Emotions dataset (Hebrew) based on Plutchik's emotion classification (8 main emotions)
 
