@@ -5,8 +5,6 @@ Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluatio
 
 If you use this work, please cite:
 
-<details>
-<summary>BibTeX</summary>
 
 ```bibtex
 @misc{vanetik2026hemotion,
@@ -16,6 +14,8 @@ If you use this work, please cite:
   note = {Accepted to DATA 2026 Conference},
   url = {https://github.com/<username>/<repository>}
 }
+
+
 # HeMotionDataset
 Emotions dataset (Hebrew) based on Plutchik's emotion classification (8 main emotions)
 
