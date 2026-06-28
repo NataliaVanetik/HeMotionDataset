@@ -12,7 +12,7 @@ If you use this work, please cite:
   title = {Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation},
   year = {2026},
   note = {Accepted to DATA 2026 Conference},
-  url = {https://github.com/<username>/<repository>}
+  url = {https://github.com/NataliaVanetik/HeMotionDataset}
 }
 ```
 
