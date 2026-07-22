@@ -7,12 +7,16 @@ If you use this work, please cite:
 
 
 ```bibtex
-@misc{vanetik2026hemotion,
-  author = {Natalia Vanetik and Shilat Haya Yosefi and Keturah Shlomo},
-  title = {Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation},
-  year = {2026},
-  note = {Accepted to DATA 2026 Conference},
-  url = {https://github.com/NataliaVanetik/HeMotionDataset}
+@inproceedings{vanetik2026hemotion,
+  author    = {Natalia Vanetik and Shilat Haya Yosefi and Keturah Shlomo},
+  title     = {Towards Fine-Grained Emotion Detection in Hebrew: Dataset Creation and Evaluation},
+  booktitle = {Proceedings of the 15th International Conference on Data Science, Technology and Applications (DATA 2026)},
+  pages      = {299--306},
+  year       = {2026},
+  address    = {Porto, Portugal},
+  month      = jul,
+  publisher  = {SciTePress},
+  url        = {https://github.com/NataliaVanetik/HeMotionDataset}
 }
 ```
 
